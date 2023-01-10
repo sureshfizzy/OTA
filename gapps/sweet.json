@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1673266696,
+      "datetime": 1673271616,
       "filename": "p404_sweet-ota-eng.black.zip",
-      "id": "15d47b729f5462e135318f57ceb4787f48656b294367eea3db5e401204e137f8",
+      "id": "eab1a544f42851f37faf9c5eb1aadd2410b414dea98a56fba722b39505ddce2e",
       "romtype": "UNOFFICIAL",
       "size": 1938743921,
       "version": "6.1",
-      "url": "https://we.tl/t-AzPiTQZL3U"
+      "url": "https://sourceforge.net/projects/project-404-sweet/files/p404_sweet-ota-eng.black.zip/download"
     }
   ]
 }
