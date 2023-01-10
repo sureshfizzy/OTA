@@ -4,10 +4,10 @@
       "datetime": 1673271616,
       "filename": "project-404-6.1-20230109-134034-TOKUI-sweet.zip",
       "id": "5e3ac329b7648a78f77dfbf793fae02a",
-      "romtype": "UNOFFICIAL",
+      "romtype": "nightly",
       "size": 1938743921,
-      "version": "6.1",
-      "url": "https://sourceforge.net/projects/project-404-sweet/files/project-404-6.1-20230109-134034-TOKUI-sweet.zip/download"
+      "url": "https://sourceforge.net/projects/project-404-sweet/files/project-404-6.1-20230109-134034-TOKUI-sweet.zip/download",
+      "version": "6.1"
     }
   ]
 }
