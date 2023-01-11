@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1673365977,
+      "datetime": 1673427095,
       "filename": "project-404-6.1-20230110-155323-TOKUI-sweet",
-      "id": "3277247a365adbb877d2e0c78319ec7ffeb88ed0647dd2463e33781749b794f8",
+      "id": "cbeaef32fd2688b8dd5ebf95c6198d3737bfe97ff4bea1cc308d3dd2f0ae5c17",
       "romtype": "userdebug",
-      "size": 1673353305,
-      "url": "https://github.com/sureshfizzy/OTA/releases/download/404/project-404-6.1-20230110-155323-TOKUI-sweet.zip",
+      "size": 1942092391,
+      "url": "https://github.com/sureshfizzy/OTA/releases/download/404/project-404-6.1-20230111-085149-TOKUI-sweet.zip",
       "version": "6.1"
     }
   ]
